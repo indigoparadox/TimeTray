@@ -1,0 +1,5 @@
+syntax: glob
+Debug
+TimeTrayWin.opensdf
+TimeTrayWin.sdf
+TimeTrayWin.v12.suo
